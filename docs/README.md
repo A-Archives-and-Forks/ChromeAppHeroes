@@ -17,6 +17,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](https://zhaoolee.com/ChromeAppHeroes/#/130-get-cookiestxt-locally.md)
 
 - [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](https://zhaoolee.com/ChromeAppHeroes/#/129-youtube-subtitle-downloader.md)
 
@@ -275,6 +276,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://v2fy.com/asset/meaning_of_gu_li/b94a67d9a9d94b768c89711ea33ee2c0.png)
 
+#### [130《Get cookies.txt LOCALLY》 获取油管cookies，自动化下载油管视频](https://zhaoolee.com/ChromeAppHeroes/#/130-get-cookiestxt-locally.md)
+
+![Get cookies.txt LOCALLY](https://cdn.fangyuanxiaozhan.com/assets/17616313074085BiMnXxi.gif)
+
+Cookies，是互联网时代最小的记忆单元。在上世纪九十年代，工程师 Lou Montulli 发明 Cookie，只为解决一个朴素的问题——让网页“记住”你是谁。
+
+我们用《Get cookies.txt LOCALLY》导出油管 Cookie，只是为了让 youtube 能识别出我们的身份，这一刻，我们既在借助技术的力量突破下载的壁垒，也在复刻互联网最初的浪漫：在无状态的世界中，让程序认得你。
 
 #### [129《YouTube Subtitle Downloader》下载Youtube视频的字幕，支持中英对照](https://zhaoolee.com/ChromeAppHeroes/#/129-youtube-subtitle-downloader.md)
 
