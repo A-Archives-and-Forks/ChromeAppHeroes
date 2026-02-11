@@ -17,6 +17,7 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ## 目录(点击以下标题, 可以进入文章页~)
 
+- [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](https://zhaoolee.com/ChromeAppHeroes/#/132-gemini-nano-banana-watermark-remover.md)
 
 - [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](https://zhaoolee.com/ChromeAppHeroes/#/131-ublock-origin-lite.md)
 
@@ -279,7 +280,13 @@ ChromeAppHeroes, Write a Chinese manual for the excellent Chrome plugin, let the
 
 ![造福人类.png](https://raw.githubusercontent.com/zhaoolee/ChromeAppHeroes/master/README/1710679297967C1J1dW7b.png)
 
-### [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器]
+### [132《Gemini NanoBanana Watermark Remover》提升AI生图幸福感！油猴脚本自动移除NanaBanana水印](https://zhaoolee.com/ChromeAppHeroes/#/132-gemini-nano-banana-watermark-remover.md)
+
+![](./docs/132-gemini-nano-banana-watermark-remover.assets/a6d2a9799da8d7033a092e1dafd71e793542db2f58c229f8e1b7e641fd2f22da.gif)
+
+Gemini NanoBanana Watermark Remover 能帮我们无感移除水印，为我们省去去水印的时间，确实是能提高幸福感的小软件
+
+### [131《uBlock Origin Lite》自动屏蔽油管贴脸广告😅，Chrome扩展工具进入MV3时代的去广告神器](https://zhaoolee.com/ChromeAppHeroes/#/131-ublock-origin-lite.md)
 
 ![](./docs/131-ublock-origin-lite.assets/53936fe4048ddb677da70826d18618ec11d4a21b8dcce8b4a6a63c92940eaa42.gif)
 
